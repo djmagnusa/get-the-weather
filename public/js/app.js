@@ -1,6 +1,5 @@
 //client side javascript
 
-console.log('Client side javascript file is loaded!')
 
 
 //querySelector selects the first form tag in the document
