@@ -39,11 +39,13 @@ header a{   /*links inside the header */
 }
 
 .portrait{
-    width: 250px
+    width: 250px;
+    margin-bottom: 20px;
+    border: 1px solid black;
 }
 
 input{
-    border: 1px solid #cccccc;
+    border: 1px solid #291212;
     padding: 8px;
 }
 
@@ -54,5 +56,7 @@ button{
     color: white;
     padding: 8px
 }
+
+
 
 
